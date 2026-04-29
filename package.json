@@ -2,7 +2,7 @@
   "name": "gawr-messenger",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/davadavydov2024.github.io/gawr mesage",
+  "homepage": "https:/davadavydov2024.github.io/gawr_mesage",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
